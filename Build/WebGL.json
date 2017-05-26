@@ -4,6 +4,6 @@
 "asmCodeUrl": "WebGL.asm.code.unityweb",
 "asmMemoryUrl": "WebGL.asm.memory.unityweb",
 "asmFrameworkUrl": "WebGL.asm.framework.unityweb",
-"splashScreenStyle": "Dark",
-"backgroundColor": "#222C36"
+"splashScreenStyle": "Light",
+"backgroundColor": "#80858B"
 }
