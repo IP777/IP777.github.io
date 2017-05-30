@@ -2,9 +2,9 @@ function UnityProgress(gameInstance, progress) {
   if (!gameInstance.Module)
     return;
   if (!gameInstance.logo) {
-    gameInstance.logo = document.createElement("div");
+    /*gameInstance.logo = document.createElement("div");
     gameInstance.logo.className = "logo " + gameInstance.Module.splashScreenStyle;
-    gameInstance.container.appendChild(gameInstance.logo);
+    gameInstance.container.appendChild(gameInstance.logo);*/
   }
   if (!gameInstance.progress) {    
     gameInstance.progress = document.createElement("div");
